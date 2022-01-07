@@ -1,0 +1,19 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.cont {
+  font-family: 'Bree Serif';
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  background-color: black;
+}
+.heading-1 {
+  font-size: 20px;
+}
+.heading-2 {
+  font-size: 15px;
+}
+.logo {
+  height: 150px;
+  width: 150px;
+}

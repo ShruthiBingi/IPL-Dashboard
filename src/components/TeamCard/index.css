@@ -1,0 +1,17 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.li {
+  border-radius: 10px;
+  border: 2px solid grey;
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  margin: 10px;
+}
+.card-img {
+  height: 90px;
+  width: 90px;
+}
+.heading {
+  font-size: 20px;
+}

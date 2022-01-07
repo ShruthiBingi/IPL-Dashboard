@@ -1,0 +1,20 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.img-card {
+  height: 100px;
+  width: 100px;
+}
+.li {
+  background-color: black;
+  color: white;
+  font-family: 'Bree Serif';
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.heading-1 {
+  font-size: 20px;
+}
+.heading-2 {
+  font-size: 15px;
+}

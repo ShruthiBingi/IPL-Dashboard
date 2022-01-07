@@ -1,0 +1,19 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+  color: white;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.img-logo {
+  height: 50px;
+  width: 50px;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
